@@ -3,7 +3,7 @@
 A full-stack agricultural e-commerce web application connecting 
 farmers, suppliers and customers in Zimbabwe's agricultural market.
 
-## 🚀 Features
+## Features
 - User registration & secure authentication
 - Dynamic product catalogue with search & category filtering  
 - Shopping cart & checkout system
